@@ -1,13 +1,15 @@
-# 01 HTML CSS Git: Code Refactor
+\# 01 HTML CSS Git: Code Refactor
 
 In this project I have refactored the index.html and style.css files for the Horiseon Marketing Webpage. 
 
-I have added semantic elements to html and improved organization of the code. I have also added relevant alt attributes to all the images on the page to improve accesibility and search engine optimization.
+This project is a digital media marketing page that includes link elements in the nav bar that allow the user to scroll down to the content below.
 
-I have fixed the HREF link to scroll down to the Search Engine Optimization article.
+I have refactored the HTML and CSS files for this webpage, adding semantic elements, best practices, and fixing broken code.
 
-I have consolidated CSS selectors into a more logical organization and assigned class and IDs to appropriate elemtns.
+The project is deployed live at the following URL: https://clatrobe00.github.io/01-Website-Code-Refactor/
 
-If you click the links in the nav bar, you will find the page scrolls down to the relevant article.
+Here is an image of the functioning site:
+
+![screenshot of project](Develop/assets/images/01-html-css-git-homework-demo.png)
 
 
